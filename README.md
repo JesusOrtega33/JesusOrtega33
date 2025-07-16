@@ -1,6 +1,6 @@
 # Hola, soy Jesús Flores Ortega 👋
 
-### Científico de Datos | Machine Learning & Simulación | Liderazgo Técnico
+### Científico de Datos | Machine Learning & Simulación | Fisico Computacional | Liderazgo Técnico
 
 Científico de Datos con una trayectoria única que combina un profundo conocimiento en **modelado predictivo** con una base sólida en **física computacional**. Mi enfoque consiste en unir la rigurosidad técnica de la investigación científica (Python, TensorFlow, Scikit-Learn) con la experiencia práctica en **gestión de proyectos y liderazgo de equipos**, adquirida como Subdirector de Area Matematicas & TI en la SEP.
 
