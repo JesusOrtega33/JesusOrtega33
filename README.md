@@ -37,7 +37,7 @@ Busco aplicar mi experiencia en la resolución de problemas complejos, ya sea en
 ### 📂 Proyectos Destacados
 
 * **Modelo Predictivo de Demanda (Grupo IAMSA):** Un proyecto end-to-end que identifica ineficiencias operativas y desarrolla un modelo XGBoost para predecir la demanda de pasajeros, logrando una **mejora del 30% en la precisión**.
-    * Puedes ver el proyecto completo aquí: **[Enlace a tu Repositorio del Proyecto]**
+    * Puedes ver el proyecto completo aquí: **[En Construcción]**
 
 * **Modelado de Plasma con ML (Tesis de Maestría):** Simulación numérica de plasmas en reactores de fusión (tokamaks) utilizando métodos de Monte Carlo, Particle in Cell y Redes Neuronales para la predicción de inestabilidades.
 
