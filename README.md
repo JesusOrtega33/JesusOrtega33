@@ -2,7 +2,7 @@
 
 ### Científico de Datos | Machine Learning & Simulación | Liderazgo Técnico
 
-Científico de Datos con una trayectoria única que combina un profundo conocimiento en **modelado predictivo** con una base sólida en **física computacional**. Mi enfoque consiste en unir la rigurosidad técnica de la investigación científica (Python, TensorFlow, Scikit-Learn) con la experiencia práctica en **gestión de proyectos y liderazgo de equipos**, adquirida como Subdirector Académico en la SEP.
+Científico de Datos con una trayectoria única que combina un profundo conocimiento en **modelado predictivo** con una base sólida en **física computacional**. Mi enfoque consiste en unir la rigurosidad técnica de la investigación científica (Python, TensorFlow, Scikit-Learn) con la experiencia práctica en **gestión de proyectos y liderazgo de equipos**, adquirida como Subdirector de Area Matematicas & TI en la SEP.
 
 Busco aplicar mi experiencia en la resolución de problemas complejos, ya sea en proyectos de Machine Learning con impacto empresarial o en desafíos de investigación y desarrollo (I+D).
 
